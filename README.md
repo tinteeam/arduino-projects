@@ -3,12 +3,14 @@
 a list of arduino project made in school
 
 
-tinteeam/tempature-warning
+- tinteeam/tempature-warning
 
-tinteeam/pwm
+- tinteeam/pwm
 
-tinteeam/rgb
+- tinteeam/rgb
 
-tinteeam/trafic-lights
+- tinteeam/trafic-lights
 
-tinteeam/push-btn
+- tinteeam/push-btn
+
+- tinteeam/potentio-metre
